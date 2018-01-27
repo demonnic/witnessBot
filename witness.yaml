@@ -1,0 +1,10 @@
+server: your.server-name.com
+nick: witness
+ident: witness
+modes: +Q
+oper: true
+operUser: operUserName
+operPass: operPassword
+dbUser: theDatabaseUser
+dbPass: theDatabasePassword
+dbName: theDatabaseName
