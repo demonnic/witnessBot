@@ -10,7 +10,7 @@ You can use the included witness.sh file from this repository to start the bot, 
 
 
 ## TODO
--Make this a plugin, so you can add this DB logging to any cinch bot and not just have to use mine
--Better error handling, right now I'm letting cinch handle it all
--Anything else I can think of.
+- Make this a plugin, so you can add this DB logging to any cinch bot and not just have to use mine
+- Better error handling, right now I'm letting cinch handle it all
+- Anything else I can think of.
 
